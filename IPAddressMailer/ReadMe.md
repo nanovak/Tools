@@ -1,5 +1,10 @@
 # IPAddressMailer
 
+I have customized the original IPAddressMailer.ps1 to use whatip.me and to include IPv6 as well as IPv6.
+I've also tweaked the email format a bit for my use. Otherwise this is the original.
+
+---
+### Introduction
 Readers of my blog over at [ArcaneCode](http://arcanecode.me) may recall I'm an amateur (ham) radio operator (N4IXT that's me!). One of my ham radio buddies has a cool radio that can be remotely controlled over the internet. With their software he just enters the IP address of his home (his home router that is, after we setup some port forwarding), and he can connect to and operate his radio remotely, make contacts around the world and more. 
 
 The tricky part of all this came in the sentence *enters the IP address of his home...*. His home router tends to change its address on the whim of his service provider. If the router reboots, it will definitely have a new address when it comes up. You may be thinking "well just get a static IP address". Unfortunately, his internet service provider can't give him this, something about him using a bonded pair of 10 mb lines to get 20 mb prevents it. 
