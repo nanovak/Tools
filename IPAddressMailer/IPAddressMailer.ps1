@@ -4,6 +4,8 @@
   Author: Robert C. Cain | @ArcaneCode | info@arcanetc.com
           http://arcanecode.me
 
+  IPv6 and API updates: Nathan Novak | @nanovak | nathan@thenovaks.net
+
   The purpose of this script is to email someone with the current external
   IP address for your system, in other words the IP Address of the router. 
   The only way to accomplish this is to make a call to a website which 
